@@ -5,6 +5,11 @@ Collection of my Quality Assurance and Testing certificates.
 -  Software Testing, Agile Processes, Basic Programmation for QA purposes, HTML for automation, Cypress Automation,
 -  API tests, API using Postman, Database, CI GITHUB Actions, Mobile Automation with JS, English for QA.
 
+
+
+
+
+
 - **Descomplica University (2023-2026)**
 - Basic Front End, Programmer, Object Oriented Developer, BackEnd Developer, FrontEnd Developer, FullStack Developer,
 - Dev OPS Strategist, Full Cycle Developer, Advanced Tester
