@@ -15,3 +15,4 @@ Collection of my Quality Assurance and Testing certificates.
 - Dev OPS Strategist, Full Cycle Developer, Advanced Tester
 - Each certificate is available in the folders called CERTIFICATES
 - Some videos showing the tests made in my main folder: https://github.com/QA-henrsb are also found on the folder Videos.
+- All images available here: https://bit.ly/CertificatesIMGQAHenrsb
