@@ -13,4 +13,4 @@ Collection of my Quality Assurance and Testing certificates.
  **Descomplica University (2023-2026)**
 - Basic Front End, Programmer, Object Oriented Developer, BackEnd Developer, FrontEnd Developer, FullStack Developer,
 - Dev OPS Strategist, Full Cycle Developer, Advanced Tester
-- Each certificate is available in the folders above 👇
+- Each certificate is available in the folders called CERTIFICATES
