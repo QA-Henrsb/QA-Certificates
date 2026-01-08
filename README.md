@@ -2,7 +2,7 @@ Collection of my Quality Assurance and Testing certificates.
 
 ## 📘 Courses Completed
  **LumeStack QA Mentorship (2025)**
--  Software Testing, Agile Processes, Basic Programmation for QA purposes, HTML for automation, Cypress Automation,
+-  Software Testing, Agile Processes, Basic Programmation for QA purposes, HTML for automation, Cypress Automation, Playwright Automation
 -  API tests, API using Postman, Database, CI GITHUB Actions, Mobile Automation with JS, English for QA.
 
 
