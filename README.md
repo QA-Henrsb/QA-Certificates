@@ -16,3 +16,7 @@ Collection of my Quality Assurance and Testing certificates.
 - Each certificate is available in the folders called CERTIFICATES
 - Some videos showing the tests made in my main folder: https://github.com/QA-henrsb are also found on the folder Videos.
 - All images available here: https://bit.ly/CertificatesIMGQAHenrsb
+
+**Udemy Courses and others**
+- MasterClass Software Testing with Jira & Agile - Be a QA Lead
+- Learn BDD with Cucumber, write Gherkin tests, create step definitions, and automate Web/API testing using real projects.
