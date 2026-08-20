@@ -59,9 +59,7 @@ Some videos showing the tests made in my main folder are also available in the `
 
 * [GitHub Profile](https://github.com/QA-Henrsb)
 
-All certificate images are available here:
-
-* [Certificate Images](https://bit.ly/CertificatesIMGQAHenrsb)
+All certificate images are available on my [LinkedIn profile](https://www.linkedin.com/in/henrsb/).
 
 ### Udemy Courses and Others
 
